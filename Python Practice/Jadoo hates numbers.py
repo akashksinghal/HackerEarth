@@ -1,0 +1,1 @@
+print(str(ord('E')-ord('A'))+str(ord('C')-ord('A'))+str(ord('A')-ord('A')))
